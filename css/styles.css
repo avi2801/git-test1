@@ -62,3 +62,14 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+.modalhead
+{
+    color:floralwhite;
+    background-color: #512DA8;
+}
+.modalbody
+{
+   
+    background-color:  #D1C4E9;
+    
+}
